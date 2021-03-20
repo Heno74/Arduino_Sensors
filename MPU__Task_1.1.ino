@@ -67,13 +67,5 @@ void loop() {
   Serial.print(" / ");
   Serial.println("yaw : ");
   Serial.println(yaw);
-  
-
-
-    
-
-
-
-  
 
 }
